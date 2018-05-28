@@ -4,8 +4,11 @@ import edu.stanford.nlp.ling.CoreLabel;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
+import java.util.Set;
 
 import edu.stanford.nlp.ling.CoreAnnotations.PartOfSpeechAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
@@ -18,7 +21,8 @@ import edu.stanford.nlp.util.CoreMap;
 
 public class CoreNLPObj {
 
-	private List<Term> listForTerm = null;
+	private Lettore reader = null;
+	private HashSet<Term> listForTerm = null;
 	private HashMap<Term, List<String>> mapTermWithPositiveReviews;
 	private HashMap<Term, List<String>> mapTermWithVeryPositiveReviews;
 	private HashMap<Term, List<String>> mapTermWithNegativeReviews;
@@ -26,7 +30,8 @@ public class CoreNLPObj {
 	private List<String> reviews = null;
 
 	public CoreNLPObj(Lettore reader) {
-		this.listForTerm = new ArrayList<>();
+		this.reader = reader;
+		this.listForTerm = new HashSet<>();
 		this.mapTermWithPositiveReviews = new HashMap<>();
 		this.mapTermWithNegativeReviews = new HashMap<>();
 		this.mapTermWithVeryNegativeReviews = new HashMap<>();
@@ -36,6 +41,7 @@ public class CoreNLPObj {
 	}
 
 	public void excractTerm() {
+
 		// creates a StanfordCoreNLP object
 		Properties props = new Properties();
 		props.setProperty("annotators", "tokenize, ssplit, pos, parse, sentiment");
@@ -65,7 +71,6 @@ public class CoreNLPObj {
 
 					// traversing the words in the current sentence
 					// a CoreLabel is a CoreMap with additional token-specific methods
-					
 
 					for (CoreLabel token : sentence.get(TokensAnnotation.class)) {
 
@@ -78,11 +83,6 @@ public class CoreNLPObj {
 
 						// inizio prova hashmap
 						if (pos.equals("NN") || pos.equals("NNS")) {
-							for(Term t: listForTerm) {
-								if(t.getWordForm().equals(word)) {
-									continue;
-								}
-							}
 							this.listForTerm.add(new Term(word));
 						}
 
@@ -91,11 +91,34 @@ public class CoreNLPObj {
 			}
 		}
 
+		this.removeTermsWithSpecialCharacters();
 	}
 
-	
-	
-	public List<Term> getListForTerm() {
+	public void removeTermsWithSpecialCharacters() {
+		Iterator<Term> it = listForTerm.iterator();
+		while (it.hasNext()) {
+			Term t = it.next();
+			if (t.getWordForm().contains(".") || t.getWordForm().contains("%")
+					|| t.getWordForm().contains("'") || t.getWordForm().contains("?")
+					|| t.getWordForm().contains("!") || t.getWordForm().contains("\"")
+					|| t.getWordForm().contains("-") || t.getWordForm().contains("/")
+					|| t.getWordForm().contains("_")) {
+				it.remove();
+			}else if(t.getWordForm().length()<=2) {
+				it.remove();
+			}else if(t.getWordForm().matches(".*\\d+.*")) {
+				it.remove();
+			}else {
+				for(String s: reader.getTermNotRilevant()) {
+					if(t.getWordForm().equals(s)) {
+						it.remove();
+					}
+				}
+			}
+		}
+	}
+
+	public HashSet<Term> getListForTerm() {
 		return listForTerm;
 	}
 

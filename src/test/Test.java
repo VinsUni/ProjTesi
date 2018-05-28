@@ -1,6 +1,7 @@
 package test;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 import operative.CoreNLPObj;
@@ -20,7 +21,7 @@ public class Test {
 		
 		o.excractTerm();
 		
-		List<Term> prova = new ArrayList<>();
+		HashSet<Term> prova = new HashSet<>();
 		
 		prova = o.getListForTerm();
 		
