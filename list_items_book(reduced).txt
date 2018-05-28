@@ -1,0 +1,333 @@
+I:1	Dragonfly in Amber	http://dbpedia.org/resource/Dragonfly_in_Amber	2016		0385302312	NR:1208
+I:1003	Brother Ca dfael's Penance	http://dbpedia.org/resource/	2016	0446404535	NR:37
+I:1006	Dying of the Light	http://dbpedia.org/resource/Dying_of_the_Light	2016	0553383086	NR:77
+I:1009	The Legend of Chun Hyang	http://dbpedia.org/resource/Legend_of_Chun_Hyang	2016	1591827639	NR:12
+I:1017	Star of Danger	http://dbpedia.org/resource/Star_of_Danger	2016	B0007ET7PS	NR:1
+I:1021	Gerald's Game	http://dbpedia.org/resource/Gerald's_Game	2016	B003CGVT22	NR:2
+I:1026	The Prince and the Pilgrim	http://dbpedia.org/resource/The_Prince_and_the_Pilgrim	2016	0449224430	NR:9
+I:1031	The Wild Swans	http://dbpedia.org/resource/The_Wild_Swans	2016	0505523833	NR:6
+I:1032	The World Wreckers	http://dbpedia.org/resource/The_World_Wreckers	2016	0886776295	NR:3
+I:1034	Gulag: A History	http://dbpedia.org/resource/Gulag:_A_History	2016	0767900561	NR:144
+I:1040	Chasing Vermeer	http://dbpedia.org/resource/Chasing_Vermeer	2016	0439372941	NR:136
+I:1051	The Hammer of Eden	http://dbpedia.org/resource/The_Hammer_of_Eden	2016	0375404414	NR:131
+I:1054	The Beatrice Letters	http://dbpedia.org/resource/The_Beatrice_Letters	2016	0060586583	NR:48
+I:1057	Lost Girls	http://dbpedia.org/resource/Lost_Girls	2016	031609062X	NR:9
+I:1082	Shutter Island	http://dbpedia.org/resource/Shutter_Island	2016	2743614811	NR:1
+I:1090	The Twelfth Card	http://dbpedia.org/resource/The_Twelfth_Card	2016	B000YCED7K	NR:1
+I:1092	The Shoes of the Fisherman	http://dbpedia.org/resource/The_Shoes_of_the_Fisherman	2016	B001U1CCX6	NR:2
+I:1096	Confessions of a Crap Artist	http://dbpedia.org/resource/Confessions_of_a_Crap_Artist	  2016	0679741143	NR:18
+I:1098	Deus Irae	http://dbpedia.org/resource/Deus_Irae	2016	0722129831	NR:1
+I:1106	From the Earth to the Moon	http://dbpedia.org/resource/From_the_Earth_to_the_Moon	2016	B0006BSZ3C	NR:1
+I:1115	Lord of Light	http://dbpedia.org/resource/Lord_of_Light	2016	B004PYWMI0	NR:1
+I:112	Foreign Affairs	http://dbpedia.org/resource/Foreign_Affairs	2016	9992882891	NR:5
+I:1122	The True Confessions of Adrian Albert Mole	http://dbpedia.org/resource/The_True_Confessions_of_Adrian_Albert_Mole          2016	0413624501	NR:3
+I:1123	Anne of Windy Poplars	http://dbpedia.org/resource/Anne_of_Windy_Poplars	2016	0553213164	NR:49
+I:1129	The Voyage of the Space Beagle	http://dbpedia.org/resource/The_Voyage_of_the_Space_Beagle	2016	B000BP3LYG	NR:2
+I:1144	The End of Mr. Y	http://dbpedia.org/resource/The_End_of_Mr._Y     	2016	0156031612	NR:67
+I:1149	SilverFin	http://dbpedia.org/resource/SilverFin	2016	0786279109	NR:61
+I:1153	The Island of Adventure	http://dbpedia.org/resource/The_Island_of_Adventure	2016	0330301756	NR:4
+I:116	Rage of Angels	http://dbpedia.org/resource/Rage_of_Angels	2016	0446356611	NR:132
+I:1168	The World of Normal Boys	http://dbpedia.org/resource/The_World_of_Normal_Boys	2016	1575665956	NR:55
+I:1174	Weaveworld	http://dbpedia.org/resource/Weaveworld	2016	0517012391	NR:117
+I:1177	The Imaginary Invalid	http://dbpedia.org/resource/The_Imaginary_Invalid	2016	0573619271	NR:1
+I:1182	A Certain Justice	http://dbpedia.org/resource/A_Certain_Justice	2016	0345425324	NR:91
+I:1185	A Mind To Murder	http://dbpedia.org/resource/A_Mind_to_Murder	2016	0743219589	NR:148
+I:1186	The Naked and the Dead	http://dbpedia.org/resource/The_Naked_and_the_Dead	2016	0312265050	NR:102
+I:119	The Ballad of Beta-2	http://dbpedia.org/resource/The_Ballad_of_Beta-2	2016	0553203126	NR:5
+I:1192	The Man Who Planted Trees	http://dbpedia.org/resource/The_Man_Who_Planted_Trees 	2016	0930031024	NR:62
+I:1196	The Communist Manifesto	http://dbpedia.org/resource/The_Communist_Manifesto	2016	0981280773	NR:1
+I:1203	The God Delusion	http://dbpedia.org/resource/The_God_Delusion	2016	1470113708	NR:2
+I:1206	Cover Her Face	http://dbpedia.org/resource/Cover_Her_Face	2016	0743219570	NR:176
+I:1208	Death in Holy Orders	http://dbpedia.org/resource/Death_in_Holy_Orders	2016	1408468034	NR:1
+I:121	World War Z	http://dbpedia.org/resource/World_War_Z	2016	1781168857	NR:7
+I:1211	Devices and Desires	http://dbpedia.org/resource/Devices_and_Desires	2016	    0316003387	NR:49
+I:1212	The Bad Seed	http://dbpedia.org/resource/The_Bad_Seed	2016	1593092636	NR:46
+I:1224	Far from the Madding Crowd	http://dbpedia.org/resource/Far_from_the_Madding_Crowd	2016	1853260673	NR:2
+I:1226	Farewell, My Lovely	http://dbpedia.org/resource/Farewell,_My_Lovely	2016	B000CQOF9E	NR:1
+I:1238	Green for Danger	http://dbpedia.org/resource/Green_for_Danger	2016	0786703865	NR:18
+I:1244	I, the Jury	http://dbpedia.org/resource/I,_the_Jury	2016	B002BP5C96	NR:1
+I:125	Les enfants terribles	http://dbpedia.org/resource/Les_Enfants_Terribles	2016	0964039907	NR:2
+I:1250	Leonardo's Mountain of Clams and the Diet of Worms	http://dbpedia.org/resource/Leonardo's_Mountain_of_Clams_and_the_Diet_of_Worms	2016	0609804758	NR:5
+I:1251	Loitering with Intent	http://dbpedia.org/resource/Loitering_with_Intent	2016	0811214745	NR:10
+I:1252	Mildred Pierce	http://dbpedia.org/resource/Mildred_Pierce	2016 	8845926648	NR:2
+I:1255	Morgan's Run	http://dbpedia.org/resource/Morgan's_Run	2016 	0671024183	NR:88
+I:1259	Peril at End House	http://dbpedia.org/resource/Peril_at_End_House	2016	B001E0VU7C	NR:1
+I:1262	Northanger Abbey	http://dbpedia.org/resource/Northanger_Abbey	2016	0140434135	NR:422
+I:1263	A Clockwork Orange	http://dbpedia.org/resource/A_Clockwork_Orange	2016	0393089134	NR:606
+I:1276	Catch-22	http://dbpedia.org/resource/Catch-22	2016 (NULLA)
+I:1278	Quartet in Autumn	http://dbpedia.org/resource/Quartet_in_Autumn	2016	0330326481	NR:33
+I:1280	The Wicked Day	http://dbpedia.org/resource/The_Wicked_Day	2016	0060548282	NR:31
+I:1282	Different Seasons	http://dbpedia.org/resource/Different_Seasons	2016	0451167538	NR:263
+I:1292	Tales from the White Hart	http://dbpedia.org/resource/Tales_from_the_White_Hart	2016	B001JE4WW8	NR:1
+I:1293	The Big Time	http://dbpedia.org/resource/The_Big_Time	2016 	B0021PJ2B0	NR:1
+I:1294	Nine Princes In Amber	http://dbpedia.org/resource/Nine_Princes_in_Amber	2016	0380014300	NR:70
+I:1296	The Heretic's Apprentice	http://dbpedia.org/resource/The_Heretic's_Apprentice	2016	0892963816	NR:6
+I:1299	The Natural	http://dbpedia.org/resource/The_Natural	2016 	B0044STECO	NR:1
+I:1300	Lady of Avalon	http://dbpedia.org/resource/Lady_of_Avalon	2016	0451456521	NR:61
+I:1301	The Sea of Monsters	http://dbpedia.org/resource/The_Sea_of_Monsters	2016	0739331191	NR:1326
+I:1303	The Alexandria Link	http://dbpedia.org/resource/The_Alexandria_Link	2016	0340899271	NR:1
+I:1313	Clans of the Alphane Moon	http://dbpedia.org/resource/Clans_of_the_Alphane_Moon	2016	0375719288	NR:33
+I:1314	The Emperor's New Mind	http://dbpedia.org/resource/The_Emperor's_New_Mind	2016 	0140145346	NR:70
+I:1316	Death Comes as the End	http://dbpedia.org/resource/Death_Comes_as_the_End	2016	0061003689	NR:46
+I:4522	Don Quixote	http://dbpedia.org/resource/Don_Quixote		2016	0374519439	NR:1
+I:3230	In Search of Lost Time	http://dbpedia.org/resource/In_Search_of_Lost_Time	2016	B000NYER5C	NR:1
+I:4653	War and Peace	http://dbpedia.org/resource/War_and_Peace	2016	0060798874	NR:12
+I:1484	Moby Dick		http://dbpedia.org/resource/Moby-Dick	2016	0199535728	NR:26
+I:2493	The Great Gatsby	http://dbpedia.org/resource/The_Great_Gatsby	2016	0231115350	NR:2
+I:591	Madame Bovary	http://dbpedia.org/resource/Madame_Bovary	2016	0393979172	NR:7
+I:39	Crime and Punishment	http://dbpedia.org/resource/Crime_and_Punishment	2016	0451530063	NR:18
+I:7325	The Brothers Karamazov	http://dbpedia.org/resource/The_Brothers_Karamazov	2016	0521386012	NR:1
+I:3812	Pride and Prejudice	http://dbpedia.org/resource/Pride_and_Prejudice	2016	0582419352	NR:2
+I:1452	Wuthering Heights	http://dbpedia.org/resource/Wuthering_Heights	2016	0582419441	NR:1
+I:4611	The Sound and the Fury	http://dbpedia.org/resource/The_Sound_and_the_Fury	2016	0075536668	NR:358
+I:4389	Lolita	http://dbpedia.org/resource/Lolita	2016	0140264078	NR:675
+I:369	Alice's Adventures in Wonderland	http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland	2016	1493624938	NR:37
+I:4277	To the Lighthouse	http://dbpedia.org/resource/To_the_Lighthouse	2016	B009CRPDSQ	NR:2
+I:7236	Great Expectations	http://dbpedia.org/resource/Great_Expectations	2016	0140366814	NR:3
+I:3168	Anna Karenina	http://dbpedia.org/resource/Anna_Karenina	2016	0140449175	NR:367
+I:8010	The Catcher in the Rye	http://dbpedia.org/resource/The_Catcher_in_the_Rye	2016	0521377986	NR:3
+I:4562	Gulliver's Travels	http://dbpedia.org/resource/Gulliver's_Travels	2016	1904633714	NR:2
+I:3546	Heart of Darkness	http://dbpedia.org/resource/Heart_of_Darkness	2016	1935639668	NR:3
+I:7602	The Grapes of Wrath	http://dbpedia.org/resource/The_Grapes_of_Wrath	2016	0140186409	NR:904
+I:2823	The Red and the Black	http://dbpedia.org/resource/The_Red_and_the_Black	2016	0140447644	NR:34
+I:2819	The Trial	http://dbpedia.org/resource/The_Trial		2016	0312607350	NR:34
+I:6054	Leaves of Grass	http://dbpedia.org/resource/Leaves_of_Grass	2016	1493791923	NR:1
+I:1344	Oedipus the King	http://dbpedia.org/resource/Oedipus_the_King	2016	0226768686	NR:8
+I:2906	Candide	http://dbpedia.org/resource/Candide	2016	1478205148	NR:4
+I:7225	David Copperfield	http://dbpedia.org/resource/David_Copperfield	2016	1479387576	NR:2
+I:2778	The Invisible Man	http://dbpedia.org/resource/The_Invisible_Man	2016	1484833155	NR:1
+I:2923	Jane Eyre	http://dbpedia.org/resource/Jane_Eyre	2016	1781845204	NR:9
+I:5663	Paradise Lost	http://dbpedia.org/resource/Paradise_Lost	2016	1782124233	NR:5
+I:2832	Things Fall Apart	http://dbpedia.org/resource/Things_Fall_Apart	2016	0141023384	NR:823
+I:4198	To Kill a Mockingbird	http://dbpedia.org/resource/To_Kill_a_Mockingbird	2016	1411405153	NR:3
+I:7600	Dead souls	http://dbpedia.org/resource/Dead_Souls	2016	1619492245	NR:8
+I:4460	The Magic Mountain	http://dbpedia	org/resource/The_Magic_Mountain	2016	0394434587	NR:14
+I:7605	The Idiot	http://dbpedia.org/resource/The_Idiot	2016	0822006278	NR:1
+I:2773	Midnight's Children	http://dbpedia.org/resource/Midnight's_Children		2016	174166473X	NR:1
+I:2842	A Passage to India	http://dbpedia.org/resource/A_Passage_to_India	2016	8087888081	NR:4
+I:5729	The Old Man and the Sea	http://dbpedia.org/resource/The_Old_Man_and_the_Sea	2016	B00CGN9BI6	NR:3
+I:2490	Brave New World	http://dbpedia.org/resource/Brave_New_World	2016	0060850523	NR:1141
+I:3387	Lord of the Flies	http://dbpedia.org/resource/Lord_of_the_Flies	2016	0140283331	NR:1304
+I:2260	Frankenstein	http://dbpedia.org/resource/Frankenstein	2016	0140620303	NR:598
+I:8070	The Decameron	http://dbpedia.org/resource/The_Decameron	2016	0140449302	NR:35
+I:4697	A Farewell to Arms	http://dbpedia.org/resource/A_Farewell_to_Arms	2016	0812034120	NR:2
+I:3005	The Scarlet Letter	http://dbpedia.org/resource/The_Scarlet_Letter	2016	0899664946	NR:2
+I:2080	Oedipus at Colonus	http://dbpedia.org/resource/Oedipus_at_Colonus	2016	0887347789	NR:3
+I:2835	Waiting for Godot	http://dbpedia.org/resource/Waiting_for_Godot	2016	B007I0J272	NR:2
+I:7509	Cousin Bette	http://dbpedia.org/resource/Cousin_Bette	     2016	0192836684	NR:15
+I:7284	Pale Fire	http://dbpedia.org/resource/Pale_Fire	2016	0141185260	NR:115
+I:3048	A Doll's House	http://dbpedia.org/resource/A_Doll's_House	2016	160459456X	NR:27
+I:7362	Under the Volcano	http://dbpedia.org/resource/Under_the_Volcano	2016	0060955228	NR:123
+I:1661	Journey to the End of the Night	http://dbpedia.org/resource/Journey_to_the_End_of_the_Night	2016	0811208478	NR:96
+I:4076	Buddenbrooks	http://dbpedia.org/resource/Buddenbrooks	2016	1486144705	NR:1
+I:7300	Sons and Lovers	http://dbpedia.org/resource/Sons_and_Lovers	2016	0140188320	NR:82
+I:2409	The Waste Land	http://dbpedia.org/resource/The_Waste_Land	2016	0393974995	NR:27
+I:7029	Tess of the D'Urbervilles	http://dbpedia.org/resource/Tess_of_the_d'Urbervilles	2016	1494433117	NR:1
+I:2061	The Good Soldier	http://dbpedia.org/resource/The_Good_Soldier	2016	1879941023	NR:1
+I:7426	Slaughterhouse-Five	http://dbpedia.org/resource/Slaughterhouse-Five	2016	0822012057	NR:5
+I:604	The Little Prince	http://dbpedia.org/resource/The_Little_Prince	2016	0152023984	NR:678
+I:1584	Charlotte's Web		http://dbpedia.org/resource/Charlotte's_Web	2016	155319330X	NR:1
+I:5650	Nostromo	http://dbpedia.org/resource/Nostromo	2016	0192801546	NR:7
+I:2965	The Age of Innocence	http://dbpedia.org/resource/The_Age_of_Innocence	2016	0192806629	NR:279
+I:2597	Gone with the Wind	http://dbpedia.org/page/Gone_with_the_Wind_(novel)	2016	0330458043	 NR:1
+I:87	The Master and Margarita	http://dbpedia.org/resource/The_Master_and_Margarita	2016	0679760806	NR:255
+I:2036	Treasure Island	http://dbpedia.org/resource/Treasure_Island	2016	0753453800	NR:5
+I:3233	The Charterhouse of Parma	http://dbpedia.org/resource/The_Charterhouse_of_Parma	2016	0192839578	 NR:9
+I:2814	The Plague	http://dbpedia.org/resource/The_Plague	2016	0385316518	NR:69
+I:3322	The Color Purple	http://dbpedia.org/resource/The_Color_Purple	2016	0822003082	NR:3
+I:7687	The Golden Notebook	http://dbpedia.org/resource/The_Golden_Notebook	2016	0061582484	NR:59
+I:7783	Dracula	http://dbpedia.org/resource/Dracula	2016	0451470222	NR:2
+I:1443	The Wind in the Willows	http://dbpedia.org/resource/The_Wind_in_the_Willows	2016	0517223619	NR:5
+I:4309	The Count of Monte Cristo	http://dbpedia.org/resource/The_Count_of_Monte_Cristo	2016	0553213504	NR:48
+I:6077	Orlando: A Biography	http://dbpedia.org/resource/Orlando:_A_Biography	2016	0140861637	NR:2
+I:7368	Prometheus Bound	http://dbpedia.org/resource/Prometheus_Bound	2016	0195061659	NR:5
+I:2392	Women in Love	http://dbpedia.org/resource/Women_in_Love	2016	0141441542	NR:62
+I:544	Rabbit, Run	http://dbpedia.org/resource/Rabbit,_Run	2016	0910137447	NR:1
+I:5528	Their Eyes Were Watching God	http://dbpedia.org/resource/Their_Eyes_Were_Watching_God	2016	0060931418	NR:578
+I:7169	Bleak House	http://dbpedia.org/resource/Bleak_House	2016	0141804637	NR:1
+I:5843	The Wind-Up Bird Chronicle	http://dbpedia.org/resource/The_Wind-Up_Bird_Chronicle	2016	0099448793	NR:474
+I:6979	Lysistrata	http://dbpedia.org/resource/Lysistrata		2016	0451527895	NR:12
+I:4821	The Man Without Qualities	http://dbpedia.org/resource/The_Man_Without_Qualities	2016	0399501525	NR:2
+I:2007	Howards End	http://dbpedia.org/resource/Howards_End	2016	0786168471	NR:2
+I:7342	The Mill on the Floss	http://dbpedia.org/resource/The_Mill_on_the_Floss	2016	1427006156	NR:2
+I:2453	Of Mice and Men	http://dbpedia.org/resource/Of_Mice_and_Men	2016	0091757584	NR:1
+I:5304	Jude the Obscure	http://dbpedia.org/resource/Jude_the_Obscure	2016	0140435387	NR:146
+I:4678	Death in Venice		http://dbpedia.org/resource/Death_in_Venice	2016	0060576170	NR:57
+I:3672	Tartuffe	http://dbpedia.org/resource/Tartuffe	2016	0156881802	NR:23
+I:7141	All Quiet on the Western Front	http://dbpedia.org/resource/All_Quiet_on_the_Western_Front	2016	0099496941	NR:574
+I:1866	Lady Chatterley's Lover	http://dbpedia.org/resource/Lady_Chatterley's_Lover	2016	193425519X	NR:18
+I:5842	The Unbearable Lightness of Being	http://dbpedia.org/resource/The_Unbearable_Lightness_of_Being	2016	0060932139	NR:172
+I:3804	Little Women	http://dbpedia.org/resource/Little_Women	2016	0140621199	NR:1186
+I:48	Gravity's Rainbow	http://dbpedia.org/resource/Gravity's_Rainbow	2016	0140188592	NR:275
+I:3057	The Pilgrim's Progress	http://dbpedia.org/resource/The_Pilgrim's_Progress	2016	0192803611	NR:12
+I:1934	Chapterhouse: Dune	http://dbpedia.org/resource/Chapterhouse:_Dune	2016	0441102670	NR:118
+I:2992	The Misanthrope	http://dbpedia.org/resource/The_Misanthrope	2016	1419174169	NR:2
+I:6418	The Corrections	http://dbpedia.org/resource/The_Corrections	2016	0312421273	NR:984
+I:58	Love in The Time of Cholera	http://dbpedia.org/resource/Love_in_the_Time_of_Cholera	2016	0140119906	NR:588
+I:2873	The Call of the Wild	http://dbpedia.org/resource/The_Call_of_the_Wild	2016	0192728016	NR:2
+I:2578	A Room with a View	http://dbpedia.org/resource/A_Room_with_a_View	2016	0451531388	NR:133
+I:7351	The Three Musketeers	http://dbpedia.org/resource/The_Three_Musketeers	2016	0553213377	NR:24
+I:3046	A Confederacy of Dunces	http://dbpedia.org/resource/A_Confederacy_of_Dunces	2016	1602590567	NR:1
+I:6214	A Midsummer Night's Dream	http://dbpedia.org/resource/A_Midsummer_Night's_Dream	2016	0061073563	NR:1
+I:1970	A Tale of Two Cities	http://dbpedia.org/resource/A_Tale_of_Two_Cities	2016	0141196904	NR:4
+I:3165	Little Dorrit	http://dbpedia.org/resource/Little_Dorrit	2016	1427047758	NR:2
+I:7201	Uncle Vanya	http://dbpedia.org/resource/Uncle_Vanya	2016	0802131514	NR:7
+I:82	The Leopard	http://dbpedia.org/resource/The_Leopard	2016	B000CRKIOY	NR:2
+I:580	The Lion, the Witch and the Wardrobe	http://dbpedia.org/resource/The_Lion,_the_Witch_and_the_Wardrobe	2016	0001939777	NR:1
+I:4125	The Remains of the Day	http://dbpedia.org/resource/The_Remains_of_the_Day	2016	0394573439	NR:306
+I:5229	Fahrenheit 451	http://dbpedia.org/resource/Fahrenheit_451	2016	0881030198	NR:2
+I:609	Finnegans Wake	http://dbpedia.org/resource/Finnegans_Wake	2016	8087888111	NR:1
+I:5955	White Teeth	http://dbpedia.org/resource/White_Teeth	2016	0375501851	NR:357
+I:7090	I, Claudius	http://dbpedia.org/resource/I,_Claudius	2016	1433213818	NR:7
+I:52	Humboldt's Gift	http://dbpedia.org/resource/Humboldt's_Gift	2016	0140189440	NR:52
+I:3777	Memoirs of Hadrian	http://dbpedia.org/resource/Memoirs_of_Hadrian	2016	0374503486	NR:84
+I:8104	Jacques the Fatalist	http://dbpedia.org/resource/Jacques_the_Fatalist	2016	0140444726	NR:5
+I:76	The Big Sleep	http://dbpedia.org/resource/The_Big_Sleep	2016	0851706320	NR:3
+I:603	The House of Mirth	http://dbpedia.org/resource/The_House_of_Mirth	2016	0141199024	NR:2
+I:2094	Uncle Tom's Cabin	http://dbpedia.org/resource/Uncle_Tom's_Cabin	2016	1495987957	NR:3
+I:3742	Wide Sargasso Sea	http://dbpedia.org/resource/Wide_Sargasso_Sea	2016	0140183485	NR:130
+I:6904	The Time Machine	http://dbpedia.org/resource/The_Time_Machine	2016	0141439971	NR:511
+I:2401	Dream of the Red Chamber	http://dbpedia.org/resource/Dream_of_the_Red_Chamber	2016	0146001761	NR:1
+I:191	The Man who Loved Children	http://dbpedia.org/resource/The_Man_Who_Loved_Children	2016	0312280440	NR:46
+I:5950	The World According to Garp	http://dbpedia.org/resource/The_World_According_to_Garp	2016	034536676X	NR:248
+I:2933	Oblomov	http://dbpedia.org/resource/Oblomov	2016	067941729X	NR:19
+I:3169	Tender is the Night	http://dbpedia.org/resource/Tender_Is_the_Night	2016	0615581498	NR:5
+I:5467	Moll Flanders	http://dbpedia.org/resource/Moll_Flanders	2016	0140433139	NR:66
+I:2627	The Wonderful Wizard of Oz	http://dbpedia.org/resource/The_Wonderful_Wizard_of_Oz	2016	0060293233	NR:1676
+I:5087	A Wrinkle in Time	http://dbpedia.org/resource/A_Wrinkle_in_Time	2016	B0075PMXY4	NR:1
+I:3550	Rabbit Is Rich	http://dbpedia.org/resource/Rabbit_Is_Rich	2016	0140249435	NR:225
+I:965	Rabbit at Rest	http://dbpedia.org/resource/Rabbit_at_Rest	2016	0449911942	NR:50
+I:2024	The Road	http://dbpedia.org/resource/The_Road	2016	0307265439	NR:3321
+I:7277	Of Human Bondage	http://dbpedia.org/resource/Of_Human_Bondage	2016	0140185224	NR:227
+I:6433	The Good Earth	http://dbpedia.org/resource/The_Good_Earth	2016	0416200206	NR:1
+I:7821	Infinite Jest	http://dbpedia.org/resource/Infinite_Jest	2016	B002HLXQD8	NR:4
+I:4016	The English Patient	http://dbpedia.org/resource/The_English_Patient	2016	0307700879	NR:220
+I:1451	Watership Down	http://dbpedia.org/resource/Watership_Down	2016	0140306013	NR:872
+I:1506	Invisible Cities	http://dbpedia.org/resource/Invisible_Cities	2016	0099429837	NR:138
+I:7082	A Prayer for Owen Meany	http://dbpedia.org/resource/A_Prayer_for_Owen_Meany	2016	006220422X	NR:694
+I:2995	Brideshead Revisited		http://dbpedia.org/resource/Brideshead_Revisited	2016	0241951615	NR:237
+I:6067	Twice-Told Tales	http://dbpedia.org/resource/Twice-Told_Tales	2016	1604599456	NR:3
+I:1466	A Christmas Carol	http://dbpedia.org/resource/A_Christmas_Carol	2016	0788744801	NR:1
+I:756	The Hound of the Baskervilles	http://dbpedia.org/resource/The_Hound_of_the_Baskervilles	2016	057361041X	NR:1
+I:4100	Forbidden Colors	http://dbpedia.org/resource/Forbidden_Colors	2016	0375705163	NR:21
+I:5553	Season of migration to the North	http://dbpedia.org/resource/Season_of_Migration_to_the_North	2016	0141187204	NR:34
+I:3333	The Sound of the Mountain	http://dbpedia.org/resource/The_Sound_of_the_Mountain	2016	0679762647	NR:20
+I:94	The Sea, the Sea	http://dbpedia.org/resource/The_Sea,_the_Sea	2016	0140051996	NR:60
+I:813	The Satanic Verses	http://dbpedia.org/resource/The_Satanic_Verses	2016	0312270828	NR:248
+I:2963	The Adventures of Tom Sawyer	http://dbpedia.org/resource/The_Adventures_of_Tom_Sawyer	2016	0140390839	NR:993
+I:4815	Long Day's Journey into Night	http://dbpedia.org/resource/Long_Day's_Journey_into_Night	2016	B000KAG482	NR:2
+I:3592	Sophie's World	http://dbpedia.org/resource/Sophie's_World	2016	B001I8BY80	NR:1
+I:7593	One Day in the Life of Ivan Denisovich	http://dbpedia.org/resource/One_Day_in_the_Life_of_Ivan_Denisovich	2016	B000JWFX4C	NR:2
+I:4836	Waiting for the Barbarians	http://dbpedia.org/resource/Waiting_for_the_Barbarians	2016	1859841198	NR:5
+I:32	A Handful of Dust	http://dbpedia.org/resource/A_Handful_of_Dust	2016	0557075246	NR:5
+I:1335	Six Characters in Search of an Author	http://dbpedia.org/resource/Six_Characters_in_Search_of_an_Author	2016	0451526880	NR:8
+I:3868	The Sorrows of Young Werther	http://dbpedia.org/resource/The_Sorrows_of_Young_Werther	2016	1934648965	NR:2
+I:6362	Naked Lunch	http://dbpedia.org/resource/Naked_Lunch	2016	0802119263	NR:175
+I:7289	Portnoy's Complaint	http://dbpedia.org/resource/Portnoy's_Complaint	2016	8483466309	NR:3
+I:2977	Stranger in a Strange Land	http://dbpedia.org/resource/Stranger_in_a_Strange_Land	2016	0921100019	NR:1
+I:7615	The Turn of the Screw	http://dbpedia.org/resource/The_Turn_of_the_Screw	2016	0393096696	NR:81
+I:77	The Bonfire of the Vanities	http://dbpedia.org/resource/The_Bonfire_of_the_Vanities	2016	0312427573	NR:217
+I:1671	Carry On, Jeeves	http://dbpedia.org/resource/Carry_On,_Jeeves	2016	0140284087	NR:49
+I:2897	A Hero of Our Time	http://dbpedia.org/resource/A_Hero_of_Our_Time	2016	1484844750	NR:9
+I:3736	The Importance of Being Earnest	http://dbpedia.org/resource/The_Importance_of_Being_Earnest		2016	1493664522	NR:363
+I:3761	Murder on the Orient Express	http://dbpedia.org/resource/Murder_on_the_Orient_Express	2016	0671800183	NR:1
+I:158	The Death of the Heart	http://dbpedia.org/resource/The_Death_of_the_Heart	2016	0140183000	NR:33
+I:1394	The Name of the Rose	http://dbpedia.org/resource/The_Name_of_the_Rose		2016	0151446474	NR:288
+I:3192	Balzac and the Little Chinese Seamstress	http://dbpedia.org/resource/Balzac_and_the_Little_Chinese_Seamstress	2016	0099452243	NR:265
+I:3	Snow Crash	http://dbpedia.org/resource/Snow_Crash	2016	344245302X	NR:8
+I:587	The Voyage of the Dawn Treader	http://dbpedia.org/resource/The_Voyage_of_the_Dawn_Treader	2016	1617806374	NR:1
+I:582	The Silver Chair	http://dbpedia.org/resource/The_Silver_Chair	2016	0060884835	NR:1
+I:586	The Horse and His Boy	http://dbpedia.org/resource/The_Horse_and_His_Boy	2016	0060884789	NR:2
+I:584	The Last Battle	http://dbpedia.org/resource/The_Last_Battle	2016	B002LITS66	NR:6
+I:2074	Prince Caspian	http://dbpedia.org/resource/Prince_Caspian	2016	1423457943	NR:1
+I:1572	The Magician's Nephew	http://dbpedia.org/resource/The_Magician's_Nephew	2016	B001KTSQLA	NR:1
+I:1417	The Warden	http://dbpedia.org/resource/The_Warden	2016	0192834088	NR:22
+I:2954	Silas Marner	http://dbpedia.org/resource/Silas_Marner	2016	0141439750	NR:124
+I:7657	The Go-Between	http://dbpedia.org/resource/The_Go-Between	2016	3905513455	NR:1
+I:536	Kokoro	http://dbpedia.org/resource/Kokoro	2016	0143106031	NR:15
+I:7559	Burmese Days	http://dbpedia.org/resource/Burmese_Days	2016	8087830989	NR:4
+I:565	Confessions of a Mask	http://dbpedia.org/resource/Confessions_of_a_Mask	2016	081120118X	NR:29
+I:4881	The First Circle	http://dbpedia.org/resource/In_the_First_Circle	2016	0061479012	NR:27
+I:7726	Cancer Ward	http://dbpedia.org/resource/Cancer_Ward	2016	B004HSB794	NR:2
+I:2486	The Heart of the Matter	http://dbpedia.org/resource/The_Heart_of_the_Matter	2016	9627341266	NR:2
+I:6893	The French Lieutenant's Woman	http://dbpedia.org/resource/The_French_Lieutenant's_Woman	2016	0316291161	NR:72
+I:7040	The End of the Affair	http://dbpedia.org/resource/The_End_of_the_Affair	2016	0099478447	NR:153
+I:6524	Neuromancer	http://dbpedia.org/resource/Neuromancer	2016	0441000681	NR:613
+I:2409	The Waste Land	http://dbpedia.org/resource/The_Waste_Land	2016	0956147208	NR:15
+I:6279	Omeros	http://dbpedia.org/resource/Omeros	2016	0374523509	NR:17
+I:5925	Paddy Clarke Ha Ha Ha	http://dbpedia.org/resource/Paddy_Clarke_Ha_Ha_Ha	2016	0140233903	NR:75
+I:5480	The Yearling	http://dbpedia.org/resource/The_Yearling	2016	0743225252	NR:15
+I:2423	Darkness at Noon	http://dbpedia.org/resource/Darkness_at_Noon	2016	1416540261	NR:79
+I:6994	American Psycho	http://dbpedia.org/resource/American_Psycho	2016	0330319922	NR:960
+I:1765	Ivanhoe	http://dbpedia.org/resource/Ivanhoe	2016	1587172488	NR:7
+I:70	Revolutionary Road	http://dbpedia.org/resource/Revolutionary_Road	2016	B00FD1Z6QY	NR:1
+I:7515	The Kite Runner	http://dbpedia.org/resource/The_Kite_Runner	2016	0385660065	NR:4036
+I:3765	My Name is Red	http://dbpedia.org/resource/My_Name_Is_Red	2016	0307593924	NR:180
+I:1787	The House of the Seven Gables	http://dbpedia.org/resource/The_House_of_the_Seven_Gables	2016	0140390057	NR:177
+I:5011	Zazie in the Metro	http://dbpedia.org/resource/Zazie_in_the_Metro	2016	0714539236	NR:2
+I:5124	The Blind Assassin	http://dbpedia.org/resource/The_Blind_Assassin	2016	0385475721	NR:445
+I:1578	Charlie and the Chocolate Factory	http://dbpedia.org/resource/Charlie_and_the_Chocolate_Factory	2016	0141301155	NR:441
+I:7945	Thousand Cranes	http://dbpedia.org/resource/Thousand_Cranes	2016	0679762655	NR:33
+I:4546	Life and Fate	http://dbpedia.org/resource/Life_and_Fate	2016	0099506165	NR:103
+I:6155	Where the Wild Things Are	http://dbpedia.org/resource/Where_the_Wild_Things_Are	2016	0060254920	NR:752
+I:8016	Schindler's Ark	http://dbpedia.org/resource/Schindler's_Ark	2016	B000S4DY8I	NR:1
+I:3065	The Crucible	http://dbpedia.org/resource/The_Crucible	2016	0812415388	NR:3
+I:877	Four Quartets	http://dbpedia.org/resource/Four_Quartets	2016	0156332256	NR:40
+I:2185	The Line of Beauty	http://dbpedia.org/resource/The_Line_of_Beauty	2016	0330483218	NR:146
+I:4606	The Notebooks of Malte Laurids Brigge	http://dbpedia.org/resource/The_Notebooks_of_Malte_Laurids_Brigge	2016	051751205X	NR:2
+I:7860	Elective Affinities	http://dbpedia.org/resource/Elective_Affinities	2016	0199555362	NR:5
+I:4064	The Moon is Down	http://dbpedia.org/resource/The_Moon_Is_Down	2016	B000NSIBBE	NR:1
+I:7540	A Game of Thrones	http://dbpedia.org/resource/A_Game_of_Thrones	2016	0307913090	NR:5301
+I:6945	The Sheltering Sky	http://dbpedia.org/resource/The_Sheltering_Sky	2016	006083482X	NR:156
+I:911	The Code of the Woosters	http://dbpedia.org/resource/The_Code_of_the_Woosters	2016	0394720288	NR:76
+I:1390	The Mists of Avalon	http://dbpedia.org/resource/The_Mists_of_Avalon	2016	0140177191	NR:700
+I:4042	The God of Small Things	http://dbpedia.org/resource/The_God_of_Small_Things	2016	0060977493	NR:616
+I:3135	Kristin Lavransdatter	http://dbpedia.org/resource/Kristin_Lavransdatter	2016	9900143574	NR:3
+I:2417	Life of Pi	http://dbpedia.org/resource/Life_of_Pi	2016	B00B5L899C	NR:9
+I:615	The Feast of the Goat	http://dbpedia.org/resource/The_Feast_of_the_Goat	2016	0312420277	NR:104
+I:7336	The Famished Road	http://dbpedia.org/resource/The_Famished_Road	2016	0385425139	NR:54
+I:2066	The Human Stain	http://dbpedia.org/resource/The_Human_Stain	2016	B00817ULJ4	NR:1
+I:5077	A Fine Balance	http://dbpedia.org/resource/A_Fine_Balance	2016	0375414819	NR:697
+I:7800	Baudolino	http://dbpedia.org/resource/Baudolino	2016	0151006903	NR:115
+I:4869	The New York Trilogy	http://dbpedia.org/resource/The_New_York_Trilogy	2016	0140131558	NR:106
+I:2918	Dombey and Son	http://dbpedia.org/resource/Dombey_and_Son	2016	1420942751	NR:3
+I:6997	The Talented Mr. Ripley	http://dbpedia.org/resource/The_Talented_Mr._Ripley	2016	014004020X	NR:203
+I:3559	The Bridge of San Luis Rey	http://dbpedia.org/resource/The_Bridge_of_San_Luis_Rey	2016	0060088877	NR:125
+I:7395	Rubyfruit Jungle	http://dbpedia.org/resource/Rubyfruit_Jungle	2016	055327886X	NR:68
+I:2996	The Old Curiosity Shop	http://dbpedia.org/resource/The_Old_Curiosity_Shop	2016	1420932322	NR:2
+I:538	The Day of the Triffids	http://dbpedia.org/resource/The_Day_of_the_Triffids	2016	B000HKP88W	NR:1
+I:5572	A Canticle for Leibowitz	http://dbpedia.org/resource/A_Canticle_for_Leibowitz	2016	0060892994	NR:317
+I:3151	And Then There Were None	http://dbpedia.org/resource/And_Then_There_Were_None	2016	0573702314	NR:1
+I:879	Ubu Roi	http://dbpedia.org/resource/Ubu_Roi	2016	1153735768	NR:1
+I:5689	Tarzan of the Apes	http://dbpedia.org/resource/Tarzan_of_the_Apes	2016	0823050602	NR:5
+I:5692	The Black Cloud	http://dbpedia.org/resource/The_Black_Cloud	2016	0451114329	NR:22
+I:5736	The Princess Bride	http://dbpedia.org/resource/The_Princess_Bride	2016	0151015392	NR:849
+I:7416	The Sirens of Titan	http://dbpedia.org/resource/The_Sirens_of_Titan	2016	B000PD0XWC	NR:1
+I:2908	The Garden of the Finzi-Continis	http://dbpedia.org/resource/The_Garden_of_the_Finzi-Continis	2016	070433173X	NR:1
+I:324	The First Man	http://dbpedia.org/resource/The_First_Man	2016	0679768165	NR:30
+I:3241	Silent Spring	http://dbpedia.org/resource/Silent_Spring	2016	B004CHJCEM	NR:2
+I:7565	Demian	http://dbpedia.org/resource/Demian	2016	1614270260	NR:4
+I:4035	Wise Children	http://dbpedia.org/resource/Wise_Children	2016	014017530X	NR:21
+I:2468	The Blue Flower	http://dbpedia.org/resource/The_Blue_Flowers	2016	0395859972	NR:64
+I:2953	Sense and Sensibility	http://dbpedia.org/resource/Sense_and_Sensibility	2016	B0073SWASW	NR:1
+I:4563	Cat's Cradle	http://dbpedia.org/resource/Cat's_Cradle	2016	B0019SYKDK	NR:1
+I:6756	Master and Commander	http://dbpedia.org/resource/Master_and_Commander	2016	0393037010	NR:450
+I:1379	The Discovery of Heaven	http://dbpedia.org/resource/The_Discovery_of_Heaven	2016	0140239375	NR:41
+I:3442	Nathan the Wise	http://dbpedia.org/resource/Nathan_the_Wise	2016	1604245034	NR:2
+I:5830	Red Storm Rising	http://dbpedia.org/resource/Red_Storm_Rising	2016	0399131493	NR:419
+I:5833	South of the Border, West of the Sun	http://dbpedia.org/resource/South_of_the_Border,_West_of_the_Sun           2016	0099448572	NR:123
+I:512	The Day of the Jackal	http://dbpedia.org/resource/The_Day_of_the_Jackal	2016	0451239377	NR:175
+I:1707	The Man in the High Castle	http://dbpedia.org/resource/The_Man_in_the_High_Castle	2016	0425086569	NR:284
+I:1700	The Beasts of Tarzan	http://dbpedia.org/resource/The_Beasts_of_Tarzan	2016	0809599848	NR:32
+I:1704	The Son of Tarzan	http://dbpedia.org/resource/The_Son_of_Tarzan	2016	1441406611	NR:13
+I:8089	A Fable	http://dbpedia.org/resource/A_Fable	2016	0394724135	NR:20
+I:4559	Franny and Zooey	http://dbpedia.org/resource/Franny_and_Zooey	2016	B000Z5J6VE	NR:3
+I:967	The Hand of Chaos	http://dbpedia.org/resource/The_Hand_of_Chaos	2016	0553563696	NR:20
+I:971	An Essay Concerning Human Understanding	http://dbpedia.org/resource/An_Essay_Concerning_Human_Understanding	2016	087220216X	NR:4
+I:978	Maske: Thaery	http://dbpedia.org/resource/Maske:_Thaery	2016	B000VBBC78	NR:1
+I:983	City of Ashes	http://dbpedia.org/resource/City_of_Ashes	2016	0516250914	NR:1
+I:952	Five Little Pigs	http://dbpedia.org/resource/Five_Little_Pigs	2016	0062073575	NR:175
+I:950	A Home at the End of the World	http://dbpedia.org/resource/A_Home_at_the_End_of_the_World	2016	0312202318	NR:110
+I:925	The Bloody Chamber		http://dbpedia.org/resource/The_Bloody_Chamber	2016	0143119044	NR:6
+I:90	The Quiet American	http://dbpedia.org/resource/The_Quiet_American	2016	0670000191	NR:1
+I:924	Doubt: A Parable	http://dbpedia.org/resource/Doubt:_A_Parable	2016	1559362766	NR:43

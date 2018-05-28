@@ -1,0 +1,308 @@
+I:8493	Pulp Fiction	http://dbpedia.org/resource/Pulp_Fiction	N.D.	1558908242	NR:1419
+I:8459	Lawrence of Arabia	http://dbpedia.org/resource/Lawrence_of_Arabia_(film)	N.D.	0767812778	NR:385
+I:8676	Modern Times	http://dbpedia.org/resource/Modern_Times_(film)	N.D.	6302561841	NR:127
+I:8554	Goodfellas	http://dbpedia.org/resource/Goodfellas	N.D.	0790729725	NR:1301
+I:36058	Apocalypse Now	http://dbpedia.org/resource/Apocalypse_Now	N.D.	6300214826	NR:986
+I:8499	Casablanca	http://dbpedia.org/resource/Casablanca_(film)	N.D.	0790743132	NR:1561
+I:8414	The Shawshank Redemption	http://dbpedia.org/resource/The_Shawshank_Redemption	N.D.	0780623134	NR:1447
+I:1742	Rear Window	http://dbpedia.org/resource/Rear_Window_(1998_film)	1998	B00000IC9S	NR:37
+I:9191	Rashomon	http://dbpedia.org/resource/Rashomon	N.D.	6303073107	NR:174
+I:8596	The Third Man	http://dbpedia.org/resource/The_Third_Man	N.D.	630347327X	NR:410
+I:8451	On the Waterfront	http://dbpedia.org/resource/On_the_Waterfront	N.D.	B0002OXRTK	NR:4
+I:17943	The Dark Knight	http://dbpedia.org/resource/The_Dark_Knight_(film)	N.D.	B00005JPY0	NR:2309
+I:67	Chinatown	http://dbpedia.org/resource/Chinatown_(1974_film)	1974	6300216500	NR:501
+I:8621	Double Indemnity	http://dbpedia.org/resource/Double_Indemnity_(film)	N.D.	1558807780	NR:259
+I:10519	Ikiru	http://dbpedia.org/resource/Ikiru	N.D.	6302919649	NR:119
+I:8391	Raging Bull	http://dbpedia.org/resource/Raging_Bull	N.D.	0792833236	NR:328
+I:8615	North by Northwest	http://dbpedia.org/resource/North_by_Northwest	N.D.	0790743213	NR:977
+I:10763	Tokyo Story	http://dbpedia.org/resource/Tokyo_Story	N.D.	B000006D1S	NR:92
+I:8440	All About Eve	http://dbpedia.org/resource/All_About_Eve	N.D.	6301797957	NR:356
+I:8404	The Silence of the Lambs	http://dbpedia.org/resource/The_Silence_of_the_Lambs_(film)	N.D.	0792842111	NR:765
+I:8487	Toy Story	http://dbpedia.org/resource/Toy_Story	N.D.	6304089767	NR:803
+I:8396	Saving Private Ryan	http://dbpedia.org/resource/Saving_Private_Ryan	N.D.	B00000K3AM	NR:1423
+I:8457	Back to the Future	http://dbpedia.org/resource/Back_to_the_Future	N.D.	6300184234	NR:463
+I:8561	Annie Hall	http://dbpedia.org/resource/Annie_Hall	N.D.	6301963911	NR:286
+I:8466	It Happened One Night	http://dbpedia.org/resource/It_Happened_One_Night	N.D.	0800113055	NR:254
+I:9270	Aliens	http://dbpedia.org/resource/Aliens_(film)	N.D.	6300248143	NR:700
+I:11342	Amadeus	http://dbpedia.org/resource/Amadeus_(film)	N.D.	0790734060	NR:634
+I:10113	La Dolce Vita	http://dbpedia.org/resource/La_Dolce_Vita	N.D.	6300208591	NR:133
+I:11576	The Shining	http://dbpedia.org/resource/The_Shining_(film)	N.D.	0790705141	NR:1182
+I:8445	The Best Years of Our Lives	http://dbpedia.org/resource/The_Best_Years_of_Our_Lives	N.D.	0792846133	NR:401
+I:8898	Fargo	http://dbpedia.org/resource/Fargo_(film)	N.D.	0792842081	NR:757
+I:9509	Reservoir Dogs	http://dbpedia.org/resource/Reservoir_Dogs	N.D.	0784010315	NR:719
+I:8381	My Neighbor Totoro	http://dbpedia.org/resource/My_Neighbor_Totoro	N.D.	6303118240	NR:1024
+I:8724	The Wild Bunch	http://dbpedia.org/resource/The_Wild_Bunch	N.D.	B000L6IGTU	NR:1
+I:15286	Memento	http://dbpedia.org/resource/Memento_(film)	N.D.	B00003CXZ3	NR:931
+I:205	The Pianist	http://dbpedia.org/resource/The_Pianist_(2002_film)	2002	B00005JLT5	NR:484
+I:9007	Cool Hand Luke	http://dbpedia.org/resource/Cool_Hand_Luke	N.D.	0790731509	NR:426
+I:8652	Jaws	http://dbpedia.org/resource/Jaws_(film)	N.D.	0783216084	NR:1103
+I:18459	To Kill a Mockingbird	http://dbpedia.org/resource/To_Kill_a_Mockingbird_(film)	N.D.	0783222955	NR:1027
+I:9832	Once Upon a Time in America	http://dbpedia.org/resource/Once_Upon_a_Time_in_America	N.D.	6300271617	NR:496
+I:8338	Barry Lyndon	http://dbpedia.org/resource/Barry_Lyndon	N.D.	B00000FYPB	NR:311
+I:18062	The Grapes of Wrath	http://dbpedia.org/resource/The_Grapes_of_Wrath_(film)	N.D.	6301797906	NR:270
+I:10693	Before Sunset	http://dbpedia.org/resource/Before_Sunset	N.D.	B0002YLC24	NR:524
+I:9065	The Usual Suspects	http://dbpedia.org/resource/The_Usual_Suspects	N.D.	6303908306	NR:815
+I:9426	Strangers on a Train	http://dbpedia.org/resource/Strangers_on_a_Train_(film)	N.D.	0790731029	NR:216
+I:11940	The Departed	http://dbpedia.org/resource/The_Departed	N.D.	B000M341QE	NR:1204
+I:11188	Fight Club	http://dbpedia.org/resource/Fight_Club	N.D.	B00003CWQ2	NR:1760
+I:8360	Full Metal Jacket	http://dbpedia.org/resource/Full_Metal_Jacket	N.D.	0790701251	NR:860
+I:8819	Dog Day Afternoon	http://dbpedia.org/resource/Dog_Day_Afternoon	N.D.	0790733927	NR:175
+I:8807	This Is Spinal Tap	http://dbpedia.org/resource/This_Is_Spinal_Tap	N.D.	1559408758	NR:526
+I:8793	Die Hard	http://dbpedia.org/resource/Die_Hard	N.D.	6301208773	NR:475
+I:74	Duck Soup	http://dbpedia.org/resource/Duck_Soup_(1933_film)	1933	6300181367	NR:134
+I:8417	The Princess Bride	http://dbpedia.org/resource/The_Princess_Bride_(film)	N.D.	6304718551	NR:10
+I:8842	Trainspotting	http://dbpedia.org/resource/Trainspotting_(film)	N.D.	6304297912	NR:319
+I:9836	Young Frankenstein	http://dbpedia.org/resource/Young_Frankenstein	N.D.	6305168857	NR:646
+I:8439	Forrest Gump	http://dbpedia.org/resource/Forrest_Gump	N.D.	0792140923	NR:1211
+I:8403	The Graduate	http://dbpedia.org/resource/The_Graduate	N.D.	6305034397	NR:446
+I:50657	Incendies	http://dbpedia.org/resource/Incendies	N.D.	B000065R11	NR:86
+I:8408	The Terminator	http://dbpedia.org/resource/The_Terminator	N.D.	0784011923	NR:704
+I:8405	The Matrix	http://dbpedia.org/resource/The_Matrix	N.D.	0790745399	NR:2171
+I:13304	Talk to Her	http://dbpedia.org/resource/Talk_to_Her	N.D.	B00005JLQW	NR:157
+I:8904	Good Will Hunting	http://dbpedia.org/resource/Good_Will_Hunting	N.D.	0788814664	NR:574
+I:77	Frankenstein	http://dbpedia.org/resource/Frankenstein_(1931_film)	1931	6300181286	NR:227
+I:9723	Infernal Affairs	http://dbpedia.org/resource/Infernal_Affairs	N.D.	B00005JN7C	NR:107
+I:9592	Toy Story 2	http://dbpedia.org/resource/Toy_Story_2	N.D.	6305949557	NR:613
+I:8589	Jurassic Park	http://dbpedia.org/resource/Jurassic_Park_(film)	N.D.	0783222734	NR:1089
+I:9102	American History X	http://dbpedia.org/resource/American_History_X	N.D.	0780625129	NR:632
+I:10741	The Iron Giant	http://dbpedia.org/resource/The_Iron_Giant	N.D.	B000028U3R	NR:851
+I:8763	Stand by Me	http://dbpedia.org/resource/Stand_by_Me_(film)	N.D.	0767809246	NR:487
+I:41981	Rope	http://dbpedia.org/resource/Rope_(film)	N.D.	6300183580	NR:204
+I:8593	Brief Encounter	http://dbpedia.org/resource/Brief_Encounter	N.D.	0780023420	NR:134
+I:12842	In the Heat of the Night	http://dbpedia.org/resource/In_the_Heat_of_the_Night_(film)	N.D.	6304961685	NR:223
+I:8444	Midnight Cowboy	http://dbpedia.org/resource/Midnight_Cowboy	N.D.	0792833287	NR:255
+I:9096	Sling Blade	http://dbpedia.org/resource/Sling_Blade	N.D.	630445600X	NR:367
+I:10539	The Exorcist	http://dbpedia.org/resource/The_Exorcist_(film)	N.D.	0790729385	NR:978
+I:42922	Requiem for a Dream	http://dbpedia.org/resource/Requiem_for_a_Dream	N.D.	B00005V1WQ	NR:44
+I:10209	Shaun of the Dead	http://dbpedia.org/resource/Shaun_of_the_Dead	N.D.	B0002MJT0I	NR:841
+I:8860	Platoon	http://dbpedia.org/resource/Platoon_(film)	N.D.	0792845129	NR:385
+I:97	Scarface	http://dbpedia.org/resource/Scarface_(1983_film)	1983	B0000AMRJE	NR:63
+I:512	The Return	http://dbpedia.org/resource/The_Return_(2003_film)	2003	B0002KQOH6	NR:251
+I:9630	Being John Malkovich	http://dbpedia.org/resource/Being_John_Malkovich	N.D.	6305807043	NR:459
+I:186	Underground	http://dbpedia.org/resource/Underground_(1995_film)	1995	1567301592	NR:53
+I:8578	The African Queen	http://dbpedia.org/resource/The_African_Queen_(film)	N.D.	630150528X	NR:578
+I:11409	Hotel Rwanda	http://dbpedia.org/resource/Hotel_Rwanda	N.D.	B0007R4T3U	NR:546
+I:9805	Almost Famous	http://dbpedia.org/resource/Almost_Famous	N.D.	B00003CXMG	NR:633
+I:9343	Magnolia	http://dbpedia.org/resource/Magnolia_(film)	N.D.	0780631153	NR:656
+I:9678	Gandhi	http://dbpedia.org/resource/Gandhi_(film)	N.D.	0800105141	NR:505
+I:20958	Goldfinger	http://dbpedia.org/resource/Goldfinger_(film)	N.D.	630365147X	NR:436
+I:9972	Batman Begins	http://dbpedia.org/resource/Batman_Begins	N.D.	B00005JNJV	NR:1786
+I:9679	Lost in Translation	http://dbpedia.org/resource/Lost_in_Translation_(film)	N.D.	B00005JMJ4	NR:1506
+I:8686	A Night at the Opera	http://dbpedia.org/resource/A_Night_at_the_Opera_(film)	N.D.	B0000040EK	NR:112
+I:9060	Spartacus	http://dbpedia.org/resource/Spartacus_(film)	N.D.	0783226039	NR:354
+I:15383	The Prestige	http://dbpedia.org/resource/The_Prestige_(film)	N.D.	B000L212HC	NR:755
+I:8708	The Shop Around the Corner	http://dbpedia.org/resource/The_Shop_Around_the_Corner	N.D.	B000021Y6M	NR:193
+I:8695	Who Framed Roger Rabbit	http://dbpedia.org/resource/Who_Framed_Roger_Rabbit	N.D.	6301404440	NR:430
+I:10131	The Incredibles	http://dbpedia.org/resource/The_Incredibles	N.D.	7883704591	NR:1267
+I:10013	Dazed and Confused	http://dbpedia.org/resource/Dazed_and_Confused_(film)	N.D.	0783227361	NR:379
+I:8336	Blazing Saddles	http://dbpedia.org/resource/Blazing_Saddles	N.D.	0790731487	NR:979
+I:9772	Day for Night	http://dbpedia.org/resource/Day_for_Night_(film)	N.D.	6300269124	NR:50
+I:11033	The Green Mile	http://dbpedia.org/resource/The_Green_Mile_(film)	N.D.	0780628799	NR:875
+I:8728	Dial M for Murder	http://dbpedia.org/resource/Dial_M_for_Murder	N.D.	6304039530	NR:325
+I:9518	Dirty Harry	http://dbpedia.org/resource/Dirty_Harry	N.D.	0790731975	NR:195
+I:8412	The Sixth Sense	http://dbpedia.org/resource/The_Sixth_Sense	N.D.	630573240X	NR:1072
+I:1982	Iron Man	http://dbpedia.org/resource/Iron_Man_(2008_film)	2008	B00005JPS8	NR:1622
+I:10465	Casino	http://dbpedia.org/resource/Casino_(film)	N.D.	0783225792	NR:507
+I:18729	My Fair Lady	http://dbpedia.org/resource/My_Fair_Lady_(film)	N.D.	6304178352	NR:598
+I:11001	A Christmas Story	http://dbpedia.org/resource/A_Christmas_Story	N.D.	6301966554	NR:2024
+I:9021	Serpico	http://dbpedia.org/resource/Serpico	N.D.	6300216543	NR:196
+I:9568	Barton Fink	http://dbpedia.org/resource/Barton_Fink	N.D.	6302291879	NR:149
+I:8747	Mary Poppins	http://dbpedia.org/resource/Mary_Poppins_(film)	N.D.	6300274187	NR:1545
+I:10053	Ed Wood	http://dbpedia.org/resource/Ed_Wood_(film)	N.D.	6303407188	NR:312
+I:18730	The Sound of Music	http://dbpedia.org/resource/The_Sound_of_Music_(film)	N.D.	6304117752	NR:1975
+I:8354	Enter the Dragon	http://dbpedia.org/resource/Enter_the_Dragon	N.D.	0790735172	NR:429
+I:8873	Rain Man	http://dbpedia.org/resource/Rain_Man	N.D.	0792833260	NR:336
+I:9527	The Birds	http://dbpedia.org/resource/The_Birds_(film)	N.D.	0783235666	NR:512
+I:9522	Edward Scissorhands	http://dbpedia.org/resource/Edward_Scissorhands	N.D.	B000005QLO	NR:514
+I:9765	Peeping Tom	http://dbpedia.org/resource/Peeping_Tom_(film)	N.D.	0780022629	NR:74
+I:63800	Eraserhead	http://dbpedia.org/resource/Eraserhead	N.D.	B00003CWPL	NR:342
+I:1500	Gladiator	http://dbpedia.org/resource/Gladiator_(2000_film)	2000	B00003CXE6	NR:1719
+I:21776	Little Miss Sunshine	http://dbpedia.org/resource/Little_Miss_Sunshine	N.D.	B000JU9OJ4	NR:685
+I:9828	True Romance	http://dbpedia.org/resource/True_Romance	N.D.	0790733420	NR:480
+I:12614	Brokeback Mountain	http://dbpedia.org/resource/Brokeback_Mountain	N.D.	1417030321	NR:1218
+I:35756	Shrek	http://dbpedia.org/resource/Shrek	N.D.	B00003CXXI	NR:1118
+I:8888	The Piano	http://dbpedia.org/resource/The_Piano	N.D.	0784011176	NR:266
+I:9914	Run Lola Run	http://dbpedia.org/resource/Run_Lola_Run	N.D.	B000021Y74	NR:526
+I:8794	Doctor Zhivago	http://dbpedia.org/resource/Doctor_Zhivago_(film)	N.D.	6303599109	NR:630
+I:244	Malcolm X	http://dbpedia.org/resource/Malcolm_X_(1992_film)	1992	6302787556	NR:333
+I:8500	Donnie Darko	http://dbpedia.org/resource/Donnie_Darko	N.D.	B00005V3Z4	NR:1082
+I:11308	Paper Moon	http://dbpedia.org/resource/Paper_Moon_(film)	N.D.	6300216403	NR:260
+I:13849	Nine Queens	http://dbpedia.org/resource/Nine_Queens	N.D.	B00006G8G3	NR:62
+I:8894	Quiz Show	http://dbpedia.org/resource/Quiz_Show_(film)	N.D.	6305428522	NR:80
+I:18462	West Side Story	http://dbpedia.org/resource/West_Side_Story_(film)	N.D.	0792837614	NR:673
+I:10014	Serenity	http://dbpedia.org/resource/Serenity_(film)	N.D.	B000BW7QWW	NR:2615
+I:8586	American Graffiti	http://dbpedia.org/resource/American_Graffiti	N.D.	0783226152	NR:436
+I:12560	Kung Fu Hustle	http://dbpedia.org/resource/Kung_Fu_Hustle	N.D.	B0009S4IHY	NR:457
+I:9095	Porco Rosso	http://dbpedia.org/resource/Porco_Rosso	N.D.	B0001XAPY2	NR:157
+I:8828	Midnight Express	http://dbpedia.org/resource/Midnight_Express_(film)	N.D.	0767817486	NR:136
+I:11443	Midnight Run	http://dbpedia.org/resource/Midnight_Run	N.D.	6301221486	NR:218
+I:9904	Mystic River	http://dbpedia.org/resource/Mystic_River_(film)	N.D.	B0001ZX0OC	NR:708
+I:8934	The Umbrellas of Cherbourg	http://dbpedia.org/resource/The_Umbrellas_of_Cherbourg	N.D.	1572520922	NR:146
+I:10248	After Hours	http://dbpedia.org/resource/After_Hours_(film)	N.D.	6300270912	NR:110
+I:8897	Apollo 13	http://dbpedia.org/resource/Apollo_13_(film)	N.D.	0783219695	NR:621
+I:8880	Dances with Wolves	http://dbpedia.org/resource/Dances_with_Wolves	N.D.	6305304750	NR:859
+I:8449	From Here to Eternity	http://dbpedia.org/resource/From_Here_to_Eternity	N.D.	0800100832	NR:184
+I:20062	American Splendor	http://dbpedia.org/resource/American_Splendor_(film)	N.D.	B0000U0X20	NR:114
+I:8623	Easy Rider	http://dbpedia.org/resource/Easy_Rider	N.D.	6302752337	NR:334
+I:8690	Animal House	http://dbpedia.org/resource/Animal_House	N.D.	0783226160	NR:437
+I:9493	East of Eden	http://dbpedia.org/resource/East_of_Eden_(film)	N.D.	6300267865	NR:146
+I:21364	Dead Man Walking	http://dbpedia.org/resource/Dead_Man_Walking_(film)	N.D.	0792842073	NR:126
+I:11570	Kagemusha	http://dbpedia.org/resource/Kagemusha	N.D.	6301661737	NR:118
+I:21793	Misery	http://dbpedia.org/resource/Misery_(film)	N.D.	0792846338	NR:327
+I:10970	The Motorcycle Diaries	http://dbpedia.org/resource/The_Motorcycle_Diaries_(film)	N.D.	B00005JNCZ	NR:343
+I:8490	Leaving Las Vegas	http://dbpedia.org/resource/Leaving_Las_Vegas	N.D.	0792838068	NR:207
+I:11495	Sideways	http://dbpedia.org/resource/Sideways	N.D.	B0007RUSGW	NR:733
+I:139	The Thin Red Line	http://dbpedia.org/resource/The_Thin_Red_Line_(1998_film)	1998	6305438137	NR:687
+I:8715	Tootsie	http://dbpedia.org/resource/Tootsie	N.D.	6302800420	NR:254
+I:21067	From Russia with Love	http://dbpedia.org/resource/From_Russia_with_Love_(film)	N.D.	6302380561	NR:315
+I:16249	Capote	http://dbpedia.org/resource/Capote_(film)	N.D.	B000E33VWW	NR:612
+I:13211	Kiss Kiss Bang Bang	http://dbpedia.org/resource/Kiss_Kiss_Bang_Bang	N.D.	B000E5KJF2	NR:716
+I:16108	The Color Purple	http://dbpedia.org/resource/The_Color_Purple_(film)	N.D.	0790729717	NR:411
+I:9809	Bullitt	http://dbpedia.org/resource/Bullitt	N.D.	0790733897	NR:683
+I:12654	Walk the Line	http://dbpedia.org/resource/Walk_the_Line	N.D.	B00005JO1R	NR:714
+I:8942	Empire of the Sun	http://dbpedia.org/resource/Empire_of_the_Sun_(film)	N.D.	630105573X	NR:453
+I:13213	V for Vendetta	http://dbpedia.org/resource/V_for_Vendetta_(film)	N.D.	1419838830	NR:1327
+I:9930	In America	http://dbpedia.org/resource/In_America_(film)	N.D.	B00005JLR8	NR:170
+I:8495	Forbidden Planet	http://dbpedia.org/resource/Forbidden_Planet	N.D.	079074404X	NR:1042
+I:16329	The Hours	http://dbpedia.org/resource/The_Hours_(film)	N.D.	B00005JKTI	NR:407
+I:13417	Donnie Brasco	http://dbpedia.org/resource/Donnie_Brasco_(film)	N.D.	0767802551	NR:230
+I:9943	The City of Lost Children	http://dbpedia.org/resource/The_City_of_Lost_Children	N.D.	6304080859	NR:218
+I:8889	Minority Report	http://dbpedia.org/resource/Minority_Report_(film)	N.D.	B00005JL78	NR:682
+I:9802	Big Fish	http://dbpedia.org/resource/Big_Fish	N.D.	B0001GOH6Q	NR:668
+I:10242	Spider-Man 2	http://dbpedia.org/resource/Spider-Man_2	N.D.	B00005JMQW	NR:760
+I:12850	The Squid and the Whale	http://dbpedia.org/resource/The_Squid_and_the_Whale	N.D.	B000CS464G	NR:181
+I:8628	Five Easy Pieces	http://dbpedia.org/resource/Five_Easy_Pieces	N.D.	6302757096	NR:174
+I:11271	Forbidden Games	http://dbpedia.org/resource/Forbidden_Games	N.D.	6303413161	NR:39
+I:12166	Cinderella Man	http://dbpedia.org/resource/Cinderella_Man	N.D.	B000ARTN3I	NR:517
+I:9364	To Catch a Thief	http://dbpedia.org/resource/To_Catch_a_Thief	N.D.	6300215741	NR:658
+I:11277	Bad Education	http://dbpedia.org/resource/Bad_Education_(film)	N.D.	B0007OCG5G	NR:86
+I:19503	Half Nelson	http://dbpedia.org/resource/Half_Nelson_(film)	N.D.	B000KX0IOK	NR:110
+I:12165	Pierrot le Fou	http://dbpedia.org/resource/Pierrot_le_Fou	N.D.	1572522542	NR:60
+I:1773	A Man for All Seasons	http://dbpedia.org/resource/A_Man_for_All_Seasons_(1966_film)	1966	6305252564	NR:330
+I:30352	Marty	http://dbpedia.org/resource/Marty_(film)	N.D.	6301973259	NR:166
+I:10199	Walkabout	http://dbpedia.org/resource/Walkabout_(film)	N.D.	0780020847	NR:136
+I:15285	Brick	http://dbpedia.org/resource/Brick_(film)	N.D.	1417068329	NR:234
+I:9081	Billy Elliot	http://dbpedia.org/resource/Billy_Elliot	N.D.	B00003CXPC	NR:404
+I:9724	Jackie Brown	http://dbpedia.org/resource/Jackie_Brown_(film)	N.D.	6305006598	NR:372
+I:10464	25th Hour	http://dbpedia.org/resource/25th_Hour	N.D.	B00008K7AO	NR:187
+I:9607	Road to Perdition	http://dbpedia.org/resource/Road_to_Perdition	N.D.	B00005JLBQ	NR:419
+I:11928	High Plains Drifter	http://dbpedia.org/resource/High_Plains_Drifter	N.D.	0783225725	NR:178
+I:14494	A Bittersweet Life	http://dbpedia.org/resource/A_Bittersweet_Life	N.D.	B000GSE6H4	NR:5
+I:23677	Fiddler on the Roof	http://dbpedia.org/resource/Fiddler_on_the_Roof_(film)	N.D.	0792838955	NR:984
+I:11155	Ray	http://dbpedia.org/resource/Ray_(film)	N.D.	B00005JND5	NR:465
+I:74779	Pi	http://dbpedia.org/resource/Pi_(film)	N.D.	0784011796	NR:673
+I:24918	The Day of the Jackal	http://dbpedia.org/resource/The_Day_of_the_Jackal_(film)	N.D.	0783226853	NR:244
+I:30	Titanic	http://dbpedia.org/resource/Titanic_(1997_film)	1997	0792151712	NR:1956
+I:8465	Cast Away	http://dbpedia.org/resource/Cast_Away	N.D.	B00003CXRP	NR:797
+I:272	The Crow	http://dbpedia.org/resource/The_Crow_(1994_film)	1994	6303187064	NR:548
+I:8901	As Good as It Gets	http://dbpedia.org/resource/As_Good_as_It_Gets	N.D.	0767811100	NR:417
+I:581	The Aviator	http://dbpedia.org/resource/The_Aviator_(2004_film)	2004	B00080ZG10	NR:426
+I:19813	The Tenant	http://dbpedia.org/resource/The_Tenant	N.D.	B000069I09	NR:72
+I:10719	Collateral	http://dbpedia.org/resource/Collateral_(film)	N.D.	B00005JN2Z	NR:502
+I:194	Chicago	http://dbpedia.org/resource/Chicago_(2002_film)	2002	B00005JLSE	NR:888
+I:8647	Hoosiers	http://dbpedia.org/resource/Hoosiers	N.D.	0792843592	NR:308
+I:34	Mulan	http://dbpedia.org/resource/Mulan_(1998_film)	1998	6305229449	NR:536
+I:11908	Sin City	http://dbpedia.org/resource/Sin_City_(film)	N.D.	078886047X	NR:1006
+I:10041	Tombstone	http://dbpedia.org/resource/Tombstone_(film)	N.D.	6303109950	NR:361
+I:9896	Videodrome	http://dbpedia.org/resource/Videodrome	N.D.	0783228457	NR:153
+I:18953	Mildred Pierce	http://dbpedia.org/resource/Mildred_Pierce_(film)	N.D.	0792840054	NR:218
+I:16748	Inside Man	http://dbpedia.org/resource/Inside_Man	N.D.	B000GFLKEY	NR:365
+I:15842	Bloody Sunday	http://dbpedia.org/resource/Bloody_Sunday_(film)	N.D.	B00008DDHZ	NR:54
+I:8905	Elizabeth	http://dbpedia.org/resource/Elizabeth_(film)	N.D.	6305358567	NR:497
+I:9338	Predator	http://dbpedia.org/resource/Predator_(film)	N.D.	6300248178	NR:729
+I:10114	Garden State	http://dbpedia.org/resource/Garden_State_(film)	N.D.	B00005JNC2	NR:471
+I:8413	The Crying Game	http://dbpedia.org/resource/The_Crying_Game	N.D.	0784011184	NR:1
+I:8453	In the Bedroom	http://dbpedia.org/resource/In_the_Bedroom	N.D.	B000067J3S	NR:177
+I:9931	21 Grams	http://dbpedia.org/resource/21_Grams	N.D.	B0001CNRRU	NR:235
+I:9494	Drugstore Cowboy	http://dbpedia.org/resource/Drugstore_Cowboy	N.D.	6303139108	NR:83
+I:885	Dark City	http://dbpedia.org/resource/Dark_City_(1998_film)	1998	0780622545	NR:629
+I:11682	Far from Heaven	http://dbpedia.org/resource/Far_from_Heaven	N.D.	B00005JLQH	NR:215
+I:8935	Angels with Dirty Faces	http://dbpedia.org/resource/Angels_with_Dirty_Faces	N.D.	0790743272	NR:83
+I:8847	Black Hawk Down	http://dbpedia.org/resource/Black_Hawk_Down_(film)	N.D.	1404979816	NR:1
+I:9116	Dumbo	http://dbpedia.org/resource/Dumbo	N.D.	6300274195	NR:478
+I:12721	Gilda	http://dbpedia.org/resource/Gilda	N.D.	B0000048YO	NR:120
+
+I:1	Batman	http://dbpedia.org/resource/Batman_(1989_film)	1989	0790729652	NR:581
+I:10	King Kong	http://dbpedia.org/resource/King_Kong_(2005_film)	2005	B00005JO20	NR:1153
+I:28	Metropolis	http://dbpedia.org/resource/Metropolis_(2001_film)	2001	B00005V4XG	NR:200
+I:31	Independence Day	http://dbpedia.org/resource/Independence_Day_(1996_film)	1996	6304233639	NR:945
+I:32	Armageddon	http://dbpedia.org/resource/Armageddon_(1998_film)	1998	6305169187	NR:719
+I:35	The Manchurian Candidate	http://dbpedia.org/resource/The_Manchurian_Candidate_(2004_film)	2004	B0006210ZG	NR:234
+I:36	Wall Street	http://dbpedia.org/resource/Wall_Street_(1987_film)	1987	6301016289	NR:271
+I:48	The Patriot	http://dbpedia.org/resource/The_Patriot_(2000_film)	2000	B00004XPPG	NR:864
+I:62	The Ring	http://dbpedia.org/resource/The_Ring_(2002_film)	2002	B00005JLTK	NR:709
+I:72	Dead Birds	http://dbpedia.org/resource/Dead_Birds_(2004_film)	2004	B0007A0F4O	NR:101
+I:80	Grass	http://dbpedia.org/resource/Grass_(1999_film)	1999	B0000633SE	NR:31
+I:87	Laura	http://dbpedia.org/resource/Laura_(1979_film)	1979	B000065G89	NR:21
+I:90	The Producers	http://dbpedia.org/resource/The_Producers_(2005_film)	2005	B00005JO24	NR:262
+I:100	Sky High	http://dbpedia.org/resource/Sky_High_(2005_film)	2005	B000BJ7BCA	NR:193
+I:110	Heaven Can Wait	http://dbpedia.org/resource/Heaven_Can_Wait_(1978_film)	1978	6300213676	NR:185
+I:148	Spider-Man	http://dbpedia.org/resource/Spider-Man_(2002_film)	2002	B00005JKCH	NR:1008
+I:204	Diamonds	http://dbpedia.org/resource/Diamonds_(1975_film)	1975	B00005RYLL	NR:2
+I:212	Secretary	http://dbpedia.org/resource/Secretary_(2002_film)	2002	B00008DDSC	NR:1
+I:218	Topaz	http://dbpedia.org/resource/Topaz_(1969_film)	1969	B0009LI30Y	NR:3
+I:222	Private Benjamin	http://dbpedia.org/resource/Private_Benjamin_(1980_film)	1980	6304696558	NR:83
+I:230	The Mummy	http://dbpedia.org/resource/The_Mummy_(1999_film)	1999	B00005Y6ZR	NR:33
+I:235	Tomcats	http://dbpedia.org/resource/Tomcats_(2001_film)	2001	B00005LQ03	NR:46
+I:245	The Little Mermaid	http://dbpedia.org/resource/The_Little_Mermaid_(1992_film)	1992	0788812408	NR:1827
+I:265	Babes in Toyland	http://dbpedia.org/resource/Babes_in_Toyland_(1997_film)	1997	B0002V7O6U	NR:8
+I:277	Gentlemen Prefer Blondes	http://dbpedia.org/resource/Gentlemen_Prefer_Blondes_(1953_film)	1953	6302484383	NR:177
+I:286	Escape to Witch Mountain	http://dbpedia.org/resource/Escape_to_Witch_Mountain_(1995_film)	1995	B000FQISGC	NR:50
+I:289	Underworld	http://dbpedia.org/resource/Underworld_(2003_film)	2003	B0000VAFNQ	NR:799
+I:291	Cheaper by the Dozen	http://dbpedia.org/resource/Cheaper_by_the_Dozen_(2003_film)	2003	B0001EFTH4	NR:233
+I:297	Impromptu	http://dbpedia.org/resource/Impromptu_(1991_film)	1991	6305112940	NR:168
+I:298	Miracle	http://dbpedia.org/resource/Miracle_(2004_film)	2004	B0001US66Y	NR:1
+I:299	Thirteen	http://dbpedia.org/resource/Thirteen_(2003_film)	2003	B00013RC2K	NR:380
+I:301	Hardcore	http://dbpedia.org/resource/Hardcore_(1979_film)	1979	6303686737	NR:36
+I:307	Rush Hour	http://dbpedia.org/resource/Rush_Hour_(1998_film)	1998	0780623711	NR:275
+I:310	Home on the Range	http://dbpedia.org/resource/Home_on_the_Range_(2004_film)	2004	B00029LO0Y	NR:155
+I:314	Big Daddy	http://dbpedia.org/resource/Big_Daddy_(1999_film)	1999	B00000K3UR	NR:179
+I:315	Sylvia	http://dbpedia.org/resource/Sylvia_(2003_film)	2003	B00005JMJD	NR:89
+I:316	Fantasia 2000	http://dbpedia.org/resource/Fantasia_2000	2000	B00003CWPW	NR:186
+I:325	Man on Fire	http://dbpedia.org/resource/Man_on_Fire_(2004_film)	2004	B00005JN0W	NR:529
+I:331	War of the Worlds	http://dbpedia.org/resource/War_of_the_Worlds_(2005_film)	2005	B00005JNTI	NR:1063
+I:334	Cabin Fever	http://dbpedia.org/resource/Cabin_Fever_(2002_film)	2002	B0000VCZNE	NR:360
+I:337	The One	http://dbpedia.org/resource/The_One_(2001_film)	2001	B00005V1WW	NR:155
+I:341	Dirty Work	http://dbpedia.org/resource/Dirty_Work_(1998_film)	1998	0792842162	NR:87
+I:342	The Wizard of Oz	http://dbpedia.org/resource/The_Wizard_of_Oz_(1982_film)	1982	B00000656J	NR:13
+I:348	Jersey Girl	http://dbpedia.org/resource/Jersey_Girl_(2004_film)	2004	B00029LO5E	NR:145
+I:350	Walking Tall	http://dbpedia.org/resource/Walking_Tall_(2004_film)	2004	B000274T94	NR:178
+I:360	Moulin Rouge	http://dbpedia.org/resource/Moulin_Rouge_(1952_film)	1952	6301972139	NR:60
+I:371	Tuck Everlasting	http://dbpedia.org/resource/Tuck_Everlasting_(2002_film)	2002	B00005JLOS	NR:224
+I:372	Oliver Twist	http://dbpedia.org/resource/Oliver_Twist_(2005_film)	2005	B000C20VU0	NR:94
+I:383	The Shaggy Dog	http://dbpedia.org/resource/The_Shaggy_Dog_(2006_film)	2006	B000FKP3XY	NR:51
+I:395	Wolf	http://dbpedia.org/resource/Wolf_(1994_film)	1994	0800177029	NR:117
+I:400	Alone in the Dark	http://dbpedia.org/resource/Alone_in_the_Dark_(2005_film)	2005	B0007XBM5W	NR:176
+I:403	The Trip	http://dbpedia.org/resource/The_Trip_(1967_film)	1967	B0001EYT52	NR:5
+I:413	Behind Enemy Lines	http://dbpedia.org/resource/Behind_Enemy_Lines_(2001_film)	2001	B00005JKL8	NR:251
+I:420	The Village	http://dbpedia.org/resource/The_Village_(2004_film)	2004	B00064LJVE	NR:963
+I:422	Peter Pan	http://dbpedia.org/resource/Peter_Pan_(2003_film)	2003	B0001HAISG	NR:481
+I:430	The Apartment	http://dbpedia.org/resource/The_Apartment_(1996_film)	1996	B000FWHW68	NR:30
+I:446	The In-Laws	http://dbpedia.org/resource/The_In-Laws_(2003_film)	2003	B0000BWTIA	NR:152
+I:448	The Libertine	http://dbpedia.org/resource/The_Libertine_(2004_film)	2004	B000F7CECK	NR:181
+
+I:15899	Babel	http://dbpedia.org/resource/Babel_(film)	N.D.	B000MCH5P4	NR:800
+I:14626	300	http://dbpedia.org/resource/300_(film)	N.D.	B00005JPLW	NR:1750
+I:18212	Blood Diamond	http://dbpedia.org/resource/Blood_Diamond_(film)	N.D.	B00005JPGO	NR:496
+I:12749	Alpha Dog	http://dbpedia.org/resource/Alpha_Dog	N.D.	B00005JPK3	NR:137
+I:18363	We Are Marshall	http://dbpedia.org/resource/We_Are_Marshall	N.D.	B00005JPBO	NR:254
+I:527	Saw	http://dbpedia.org/resource/Saw_(2004_film)	2004	B0006SSOHC	NR:615
+I:14225	Apocalypto	http://dbpedia.org/resource/Apocalypto	N.D.	B000GNOKQG	NR:691
+I:1639	Stranger than Fiction	http://dbpedia.org/resource/Stranger_than_Fiction_(2006_film)	2006	B000LXH0AE	NR:442
+I:13534	Match Point	http://dbpedia.org/resource/Match_Point	N.D.	B000EQHXNW	NR:346
+I:9643	Kingdom of Heaven	http://dbpedia.org/resource/Kingdom_of_Heaven_(film)	N.D.	B000AARKO4	NR:897
+I:12363	Hitch	http://dbpedia.org/resource/Hitch_(film)	N.D.	B000957O7S	NR:381
+I:9575	Troy	http://dbpedia.org/resource/Troy_(film)	N.D.	B0002Z0EYA	NR:7
+I:11303	The Machinist	http://dbpedia.org/resource/The_Machinist	N.D.	B0007Y08QA	NR:295
+I:9334	The Last Samurai	http://dbpedia.org/resource/The_Last_Samurai	N.D.	B0001JXOUS	NR:959
+I:10187	Once Upon a Time in Mexico	http://dbpedia.org/resource/Once_Upon_a_Time_in_Mexico	N.D.	B0000WN140	NR:220
+I:10370	Harry Potter and the Chamber of Secrets	http://dbpedia.org/resource/Harry_Potter_and_the_Chamber_of_Secrets_(film)	N.D.	B00008DDXB	NR:921
+I:27389	8 Mile	http://dbpedia.org/resource/8_Mile_(film)	N.D.	B00005JLQE	NR:424
+I:9687	Enemy at the Gates	http://dbpedia.org/resource/Enemy_at_the_Gates	N.D.	B00003CXRA	NR:544
+I:8489	Vanilla Sky	http://dbpedia.org/resource/Vanilla_Sky	N.D.	B00005JKMY	NR:717
+I:11953	The Pledge	http://dbpedia.org/resource/The_Pledge_(film)	N.D.	B00005BCKG	NR:193
+I:18748	American Psycho	http://dbpedia.org/resource/American_Psycho_(film)	N.D.	0783243499	NR:913
+I:8424	Unbreakable	http://dbpedia.org/resource/Unbreakable_(film)	N.D.	B00003CXQA	NR:645
+I:8380	Miss Congeniality	http://dbpedia.org/resource/Miss_Congeniality_(film)	N.D.	B00005AAA9	NR:751
+I:9300	Any Given Sunday	http://dbpedia.org/resource/Any_Given_Sunday	N.D.	0790749912	NR:264
+I:8498	Sleepy Hollow	http://dbpedia.org/resource/Sleepy_Hollow_(film)	N.D.	0792164903	NR:828
