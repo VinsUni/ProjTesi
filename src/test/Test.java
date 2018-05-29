@@ -31,8 +31,8 @@ public class Test {
 		
 
 		System.out.println(lettore.getTitoloItem());
-		System.out.println("Term Relevant: ------->" + lettore.getTermRilevant().toString());
-		System.out.println("Term Not Relevant: ------->" + lettore.getTermNotRilevant().toString());
+		System.out.println("Term Relevant: ------->" + lettore.getTermRelevant().toString());
+		System.out.println("Term Not Relevant: ------->" + lettore.getTermNotRelevant().toString());
 		// System.out.println("Review for this Item:------->" +
 		// lettore.getReviewFilteredById().toString());
 		System.out.println("Num of reviews:-------->" + lettore.getCounterReviewId());

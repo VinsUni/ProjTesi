@@ -14,14 +14,14 @@ public class Lettore {
 	private String idItem;
 	private String titoloItem;
 	private ArrayList<String> reviewFilteredById;
-	private ArrayList<String> termNotRilevant;
-	private ArrayList<String> termRilevant;
+	private ArrayList<String> termNotRelevant;
+	private ArrayList<String> termRelevant;
 	private int counterReviewId;
 	
 	public Lettore() {
 		this.reviewFilteredById=new ArrayList<String>();
-		this.termNotRilevant = new ArrayList<String>();
-		this.termRilevant = new ArrayList<String>();
+		this.termNotRelevant = new ArrayList<String>();
+		this.termRelevant = new ArrayList<String>();
 		this.idItem = null;
 		this.titoloItem=null;
 		this.counterReviewId=0;
@@ -55,20 +55,20 @@ public class Lettore {
 		this.reviewFilteredById = reviewFilteredById;
 	}
 
-	public ArrayList<String> getTermNotRilevant() {
-		return termNotRilevant;
+	public ArrayList<String> getTermNotRelevant() {
+		return termNotRelevant;
 	}
 
-	public void setTermNotRilevant(ArrayList<String> termNotRilevant) {
-		this.termNotRilevant = termNotRilevant;
+	public void setTermNotRelevant(ArrayList<String> termNotRelevant) {
+		this.termNotRelevant = termNotRelevant;
 	}
 
-	public ArrayList<String> getTermRilevant() {
-		return termRilevant;
+	public ArrayList<String> getTermRelevant() {
+		return termRelevant;
 	}
 
-	public void setTermRilevant(ArrayList<String> termRilevant) {
-		this.termRilevant = termRilevant;
+	public void setTermRelevant(ArrayList<String> termRelevant) {
+		this.termRelevant = termRelevant;
 	}
 	
 	//Take idItem and set the list of reviews for item
@@ -132,7 +132,7 @@ public class Lettore {
 			   s = new Scanner(new File("termNotRilevant.txt"));
 
 			  while (s.hasNext()) {
-			    this.termNotRilevant.add(s.next());
+			    this.termNotRelevant.add(s.next());
 			  }
 			} catch (IOException e) {
 			  System.out.println("Error accessing input file!");
@@ -149,7 +149,7 @@ public class Lettore {
 			  s = new Scanner(new File("termRilevant.txt"));
 
 			  while (s.hasNext()) {
-			    this.termRilevant.add(s.next());
+			    this.termRelevant.add(s.next());
 			  }
 			} catch (IOException e) {
 			  System.out.println("Error accessing input file!");

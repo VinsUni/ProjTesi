@@ -91,10 +91,10 @@ public class CoreNLPObj {
 			}
 		}
 
-		this.removeTermsWithSpecialCharacters();
+		this.removeTermsNotRelevant();
 	}
 
-	public void removeTermsWithSpecialCharacters() {
+	public void removeTermsNotRelevant() {
 		Iterator<Term> it = listForTerm.iterator();
 		while (it.hasNext()) {
 			Term t = it.next();
@@ -109,7 +109,7 @@ public class CoreNLPObj {
 			}else if(t.getWordForm().matches(".*\\d+.*")) {
 				it.remove();
 			}else {
-				for(String s: reader.getTermNotRilevant()) {
+				for(String s: reader.getTermNotRelevant()) {
 					if(t.getWordForm().equals(s)) {
 						it.remove();
 					}
@@ -118,6 +118,9 @@ public class CoreNLPObj {
 		}
 	}
 
+	
+	
+	
 	public HashSet<Term> getListForTerm() {
 		return listForTerm;
 	}
